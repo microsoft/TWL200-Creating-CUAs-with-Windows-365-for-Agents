@@ -1,0 +1,24 @@
+title: TechWorkshop L200 Creating Computer-using agents with Windows 365 for agents
+description: This lab will introduce you to the world of computer-using agents, and how to create them using Windows 365 for Agents. You will learn how to use the tools and resources available to create agents that can perform a variety of tasks, from simple automation to complex problem-solving.
+theme: just-the-docs
+
+aux_links:
+  "TechWorkshop L200: Creating Computer-Using Agents with Windows 365 for Agents": 
+    - "https://github.com/microsoft/TW-L200-Creating-CUAs-with-Windows-365-for-Agents"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
