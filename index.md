@@ -8,7 +8,7 @@ nav_order: 1
 
 This lab introduces Microsoft Fabric, a unified data and analytics platform that helps organizations collect, store, process, and analyze structured and real-time data in one environment to support AI-driven insights and intelligent applications.
 
-In this lab, you'll create and configure a Microsoft Fabric environment, process data, and build an ontology to support Fabric IQ capabilities.
+In this lab, you'll create and configure a Microsoft Fabric environment, process data, and build an ontology to support Fabric IQ capabilities. 
 
 
 
