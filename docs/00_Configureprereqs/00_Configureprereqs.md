@@ -25,8 +25,8 @@ Estimated time to complete this exercise: **50 minutes**
 
 ## Learning resources
 - [Automate web and desktop apps with computer use](https://learn.microsoft.com/en-us/microsoft-copilot-studio/computer-use)
-- [Use Cloud PC pool for computer use runs] (https://learn.microsoft.com/en-us/microsoft-copilot-studio/use-cloud-pc-pool)
+- [Use Cloud PC pool for computer use runs](https://learn.microsoft.com/en-us/microsoft-copilot-studio/use-cloud-pc-pool)
 - [Set up pay-as-you-go](https://learn.microsoft.com/en-us/power-platform/admin/pay-as-you-go-set-up?tabs=new)
--[Set up billing for Windows 365 agents](https://learn.microsoft.com/en-us/windows-365/agents/billing-w365a)
+- [Set up billing for Windows 365 agents](https://learn.microsoft.com/en-us/windows-365/agents/billing-w365a)
 
 
